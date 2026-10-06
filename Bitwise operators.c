@@ -4,8 +4,6 @@
 #include <stdlib.h>
 //Complete the following function.
 
-
-
 void calculate_the_maximum(int n, int k)
 {
     int max_and = 0;
